@@ -262,12 +262,9 @@ footer p {
 
 .landing-header .fa-bars {
   color: white;
-  float: right;
-  font-size: 2rem;
-  margin: .5em;
 }
 
-.landing-header {
+.intro {
   background: url("../images/header_bg.jpg") no-repeat top center #131e27;
   background-size: cover;
   padding: 25px 0 200px;
